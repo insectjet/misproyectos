@@ -42,7 +42,7 @@ public class CapturasDeTeclado {
         
         if (n1<10) {
             System.out.println("el numeros tiene un digito");
-                if (n1<100){
+                if (n1<100)git{
                 System.out.println("el numeros tiene dos digitos");
                     if (n1<1000)
             }
